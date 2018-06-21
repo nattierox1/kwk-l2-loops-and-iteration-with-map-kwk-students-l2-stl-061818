@@ -27,7 +27,7 @@ console.log(lowerCaseStudentNames());
     const studentFirst = name.split(" ")[0];
     const studentLast = name.split(" ")[1];
     
-    return {firstName :studentFirst, lastName : 
+    return { firstName :studentFirst, lastName : 
     studentLast);
   }
   function nameToAttributes(list) {
