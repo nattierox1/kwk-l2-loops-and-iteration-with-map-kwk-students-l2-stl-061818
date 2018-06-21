@@ -25,4 +25,4 @@ nameToAttributes ['Amy Adams', 'Cate Blanchett', 'Emma Stone', 'Jennifer Lawrenc
   }
   */
   
-  lowerCaseStudentNames(names2);
+  console.log(lowerCaseStudentNames(names2));
