@@ -14,7 +14,7 @@ function lowerCaseStudentNames() {
   }
   */
   
-  names.map(lowerIt);
+  console.log(names.map(lowerIt));
   
   /*
   let name = names[0];
