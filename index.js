@@ -8,13 +8,6 @@ function lowerThis(name) {
 function lowerCaseStudentNames(array) {
   
   return array.map(lowerThis);
-  
-  /*
-  for (let i = 0; i < array.length; i++) {
-    let name = array[i];
-    return name.toLowerCase();
-  }
-  */
 }
 
 /*
@@ -22,3 +15,11 @@ console.log(lowerCaseStudentNames());
 
 let 
 nameToAttributes ['Amy Adams', 'Cate Blanchett', 'Emma Stone', 'Jennifer Lawrence', 'Natalie Portman']
+*/
+  
+  /*
+  for (let i = 0; i < array.length; i++) {
+    let name = array[i];
+    return name.toLowerCase();
+  }
+  */
