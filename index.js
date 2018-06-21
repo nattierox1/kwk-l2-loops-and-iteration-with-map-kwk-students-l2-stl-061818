@@ -3,7 +3,9 @@ let names = ['Adele', 'Beyonce', 'Lady', 'Madonna', 'Rihanna', 'Taylor'];
 
 function lowerCaseStudentNames() {
   for (let i = 0; i < names.length; i++) {
-    return names[i].toLowerCase();
+    let name = names[i];
+    name = name.toLowerCase();
+    return name;
   }
 }
 
