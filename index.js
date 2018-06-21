@@ -25,5 +25,5 @@ console.log(lowerCaseStudentNames());
   let nameToAttributes = ['Amy Adams', 'Cate Blanchett', 'Emma Stone', 'Jennifer Lawrence]
   
   function nameToAttributes(list) {
-   return array.map(firstName)
+   return list.map(firstName)
   }
