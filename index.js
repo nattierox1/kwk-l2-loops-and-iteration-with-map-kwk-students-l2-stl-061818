@@ -21,3 +21,9 @@ console.log(lowerCaseStudentNames());
     return name.toLowerCase();
   }
   */
+  
+  let nameToAttributes = ['Amy Adams', 'Cate Blanchett', 'Emma Stone', 'Jennifer Lawrence
+  
+  function nameToAttributes(array) {
+   return array.map(firstName)
+  }
