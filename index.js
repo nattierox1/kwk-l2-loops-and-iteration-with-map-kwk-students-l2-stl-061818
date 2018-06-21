@@ -12,4 +12,4 @@ function lowerCaseStudentNames() {
 console.log(lowerCaseStudentNames());
 
 
-nameToAttributes
+nameToAttributes ['Amy Adams', 'Ca']
