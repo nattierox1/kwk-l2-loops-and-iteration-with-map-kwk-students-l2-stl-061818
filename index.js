@@ -11,5 +11,5 @@ function lowerCaseStudentNames() {
 
 console.log(lowerCaseStudentNames());
 
-
+let 
 nameToAttributes ['Amy Adams', 'Cate Blanchett', 'Emma Stone', 'Jennifer Lawrence', 'Natalie Portman']
