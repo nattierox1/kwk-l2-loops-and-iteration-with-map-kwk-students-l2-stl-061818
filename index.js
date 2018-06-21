@@ -7,19 +7,9 @@ function lowerIt(name) {
 
 
 function lowerCaseStudentNames() {
-  
-  /*
   for (let i = 0; i < names.length; i++) {
     return names[i].toLowerCase();
   }
-  */
-  
-  console.log(names.map(lowerIt));
-  
-  /*
-  let name = names[0];
-  return name.toLowerCase();
-  */
 }
 
 console.log(lowerCaseStudentNames());
