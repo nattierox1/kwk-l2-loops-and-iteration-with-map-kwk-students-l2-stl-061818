@@ -31,6 +31,6 @@ console.log(lowerCaseStudentNames());
     studentLast);
   }
   function nameToAttributes(list) {
-   return list.map(splitName)
+   return list.map(splitName);
   }
   
