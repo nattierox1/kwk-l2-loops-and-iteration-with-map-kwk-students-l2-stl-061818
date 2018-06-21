@@ -24,7 +24,7 @@ console.log(lowerCaseStudentNames());
   
 
   function splitName(name) {
-    const studentFirst = name.split(" ")[0]
+    const studentFirst = name.split(" ")[0];
     const studentLast = name.split(" ")[1];
     
     return {firstName :studentFirst, lastName : 
