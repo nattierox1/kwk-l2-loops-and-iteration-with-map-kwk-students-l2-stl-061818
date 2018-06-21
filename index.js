@@ -1,6 +1,8 @@
 // Code your solution in this file.
 let names = ['Adele', 'Beyonce', 'Lady', 'Madonna', 'Rihanna', 'Taylor'];
 
+let names2 = ['Topher', 'Nataleigh'];
+
 function lowerThis(name) {
   return name.toLowerCase();
 }
