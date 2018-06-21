@@ -11,4 +11,4 @@ let names = ['Adele', 'Beyonc', 'Lady', 'Madonna', 'Rihanna', 'Taylor'];
   */
 }
 
-return lowerCaseStudentNames();
+console.log(lowerCaseStudentNames());
