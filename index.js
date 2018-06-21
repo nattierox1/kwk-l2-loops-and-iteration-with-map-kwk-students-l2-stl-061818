@@ -22,8 +22,15 @@ console.log(lowerCaseStudentNames());
   }
   */
   
-  let nameToAttributes = ['Amy Adams', 'Cate Blanchett', 'Emma Stone', 'Jennifer Lawrence]
-  
-  function nameToAttributes(list) {
-   return list.map(firstName)
+
+  function splitName(name) {
+    const studentFirst = name.split(" ")[0]
+    const studentLast = name.split(" ")[1];
+    
+    return {firstName :studentFirst, lastName : 
+    studentLast);
   }
+  function nameToAttributes(list) {
+   return list.map(splitName)
+  }
+  function attributesToPhrase()
