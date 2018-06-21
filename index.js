@@ -1,14 +1,14 @@
 // Code your solution in this file.
 let names = ['Adele', 'Beyonce', 'Lady', 'Madonna', 'Rihanna', 'Taylor'];
 
-function lowerCaseStudentNames() {
-  for (let i = 0; i < names.length; i++) {
-    let name = names[i];
-    return = name.toLowerCase();
-    return name;
+function lowerCaseStudentNames(array) {
+  for (let i = 0; i < array.length; i++) {
+    let name = array[i];
+    return name.toLowerCase();
   }
 }
 
+/*
 console.log(lowerCaseStudentNames());
 
 let 
