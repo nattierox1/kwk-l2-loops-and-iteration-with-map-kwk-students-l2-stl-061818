@@ -9,4 +9,4 @@ function lowerCaseStudentNames() {
   }
 }
 
-lowerCaseStudentNames();
+console.log(lowerCaseStudentNames());
