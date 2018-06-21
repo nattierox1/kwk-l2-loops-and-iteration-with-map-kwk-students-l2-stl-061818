@@ -10,3 +10,6 @@ function lowerCaseStudentNames() {
 }
 
 console.log(lowerCaseStudentNames());
+
+
+nameToAttributes
