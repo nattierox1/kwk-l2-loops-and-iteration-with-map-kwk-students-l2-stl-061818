@@ -24,3 +24,5 @@ nameToAttributes ['Amy Adams', 'Cate Blanchett', 'Emma Stone', 'Jennifer Lawrenc
     return name.toLowerCase();
   }
   */
+  
+  lowerCaseStudentNames(names2);
