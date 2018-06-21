@@ -2,12 +2,11 @@
 let names = ['Adele', 'Beyonce', 'Lady', 'Madonna', 'Rihanna', 'Taylor'];
 
 function lowerThis(name) {
-  name = name.toLowerCase();
+  return name.toLowerCase();
 }
 
-function lowerCaseStudentNames(array) {
-  
-  return array.map(lowerThis);
+function lowerCaseStudentNames() {
+  return names.map(lowerThis);
 }
 
 /*
