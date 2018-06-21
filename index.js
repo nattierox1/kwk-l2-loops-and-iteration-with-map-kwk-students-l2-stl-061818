@@ -5,8 +5,8 @@ function lowerThis(name) {
   return name.toLowerCase();
 }
 
-function lowerCaseStudentNames() {
-  return names.map(lowerThis);
+function lowerCaseStudentNames(array) {
+  return array.map(lowerThis);
 }
 
 /*
