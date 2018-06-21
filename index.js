@@ -11,3 +11,5 @@ function lowerCaseStudentNames() {
   return name.toLowerCase();
   */
 }
+
+lowerCaseStudentNames();
